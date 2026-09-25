@@ -1,5 +1,8 @@
 # KINETIC® — Award-Style Animated Landing Page
 
+> **Live site:** https://rsys-suraj-kumar.github.io/kinetic-landing/
+> — deployed automatically to GitHub Pages on every push to `main`.
+
 An Awwwards-inspired landing page for a fictional creative studio, built with the
 latest React + Tailwind stack and choreographed with GSAP.
 
